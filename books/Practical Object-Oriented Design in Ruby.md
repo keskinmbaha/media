@@ -18,4 +18,8 @@ https://www.poodr.com/
   - Law of Demeter
 - Design Patterns
   - "Each well-known pattern is a near perfect open-source solution for the problem it solves"
+- Bad OOD metrics are a sign of bade design, but code that scores well doesn't provde the code is good. You may have writen perfect design for the wrong future, hindering your ability to change to the new future.
+- There are 2 fundamental building blocks in programming, _data_ and _behaivor_. OOD combines these 2 to create an _object_.
+  - Objects invoke each others' behaivors by sending _messages_
 
+# Chapter 2 - Designing Classes with a Single Responsibility
